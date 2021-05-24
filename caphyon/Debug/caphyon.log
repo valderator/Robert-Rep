@@ -1,0 +1,24 @@
+﻿  ExitOperation.cpp
+  ExpensiveInterval.cpp
+  Menu.cpp
+  ParkingReservation.cpp
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkingReservation.cpp(18,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkingReservation.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkingReservation.cpp(43,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkingReservation.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkingReservation.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkingReservation.cpp(72,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkingReservation.cpp(84,26): warning C4018: '>': signed/unsigned mismatch
+  ParkSpot.cpp
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkSpot.cpp(43,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkSpot.cpp(85,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkSpot.cpp(111,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkSpot.cpp(199,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\source\ParkSpot.cpp(278,26): warning C4018: '>': signed/unsigned mismatch
+  RemoveABookedSpotOperation.cpp
+  RemoveAParkingSpotOperation.cpp
+  Spot.cpp
+  Time.cpp
+  TimeInterval.cpp
+  Generating Code...
+  caphyon.vcxproj -> C:\Users\Robert\Desktop\caphyon\Debug\caphyon.exe
