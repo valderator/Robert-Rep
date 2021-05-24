@@ -1,0 +1,7 @@
+﻿  ParkSpot.cpp
+C:\Users\Robert\Desktop\caphyon\caphyon\ParkSpot.cpp(43,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\ParkSpot.cpp(85,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\ParkSpot.cpp(111,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\ParkSpot.cpp(201,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Robert\Desktop\caphyon\caphyon\ParkSpot.cpp(280,26): warning C4018: '>': signed/unsigned mismatch
+  caphyon.vcxproj -> C:\Users\Robert\Desktop\caphyon\Debug\caphyon.exe
